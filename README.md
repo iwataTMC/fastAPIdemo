@@ -1,7 +1,7 @@
 # Create React App
 
 ```
-npx create-react-app fastapitypescript --template typescript
+npx create-react-app client --template typescript
 ```
 
 ```
