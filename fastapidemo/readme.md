@@ -40,4 +40,9 @@ python main.py --reload
 uvicorn main:app --reload
 ```
 
+# SwaggerでDocumentを見る
+
+http://127.0.0.1:8000/docs
+
+http://127.0.0.1:8000/redoc
 
